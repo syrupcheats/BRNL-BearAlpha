@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/syrupcheats/BRNL-BearAlpha/refs/heads/main/Main.lua"))()
